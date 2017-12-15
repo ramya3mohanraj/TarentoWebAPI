@@ -1,0 +1,9 @@
+D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Service\bin\Debug\WebAPI.Service.dll
+D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Service\bin\Debug\WebAPI.Service.pdb
+D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Service\bin\Debug\Data.dll
+D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Service\bin\Debug\EntityFramework.dll
+D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Service\bin\Debug\Data.pdb
+D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Service\bin\Debug\EntityFramework.xml
+D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Service\obj\Debug\WebAPI.Service.csprojResolveAssemblyReference.cache
+D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Service\obj\Debug\WebAPI.Service.dll
+D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Service\obj\Debug\WebAPI.Service.pdb
