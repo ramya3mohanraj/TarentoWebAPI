@@ -1,0 +1,7 @@
+D:\newPOCs\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.csprojResolveAssemblyReference.cache
+D:\newPOCs\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Service.dll
+D:\newPOCs\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Service.pdb
+D:\newPOCs\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Data.dll
+D:\newPOCs\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Data.pdb
+D:\newPOCs\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.dll
+D:\newPOCs\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.pdb

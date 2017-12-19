@@ -1,0 +1,11 @@
+D:\newPOCs\WebAPI\WebAPI.Common\bin\Debug\WebAPI.Common.dll.config
+D:\newPOCs\WebAPI\WebAPI.Common\bin\Debug\WebAPI.Common.dll
+D:\newPOCs\WebAPI\WebAPI.Common\bin\Debug\WebAPI.Common.pdb
+D:\newPOCs\WebAPI\WebAPI.Common\bin\Debug\Newtonsoft.Json.dll
+D:\newPOCs\WebAPI\WebAPI.Common\bin\Debug\System.Web.Http.dll
+D:\newPOCs\WebAPI\WebAPI.Common\bin\Debug\System.Net.Http.Formatting.dll
+D:\newPOCs\WebAPI\WebAPI.Common\bin\Debug\Newtonsoft.Json.xml
+D:\newPOCs\WebAPI\WebAPI.Common\bin\Debug\System.Web.Http.xml
+D:\newPOCs\WebAPI\WebAPI.Common\bin\Debug\System.Net.Http.Formatting.xml
+D:\newPOCs\WebAPI\WebAPI.Common\obj\Debug\WebAPI.Common.dll
+D:\newPOCs\WebAPI\WebAPI.Common\obj\Debug\WebAPI.Common.pdb

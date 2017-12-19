@@ -1,0 +1,4 @@
+D:\newPOCs\WebAPI\WebAPI.Data\bin\Debug\WebAPI.Data.dll
+D:\newPOCs\WebAPI\WebAPI.Data\bin\Debug\WebAPI.Data.pdb
+D:\newPOCs\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.dll
+D:\newPOCs\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.pdb
