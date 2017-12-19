@@ -1,4 +1,0 @@
-D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Common\bin\Debug\WebAPI.Common.dll
-D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Common\bin\Debug\WebAPI.Common.pdb
-D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Common\obj\Debug\WebAPI.Common.dll
-D:\DotNet-Learn\TarentoWebAPI\WebAPI-WS1\WebAPI.Common\obj\Debug\WebAPI.Common.pdb
