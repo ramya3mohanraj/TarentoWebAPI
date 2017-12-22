@@ -2,3 +2,9 @@ D:\newPOCs\WebAPI\WebAPI.Data\bin\Debug\WebAPI.Data.dll
 D:\newPOCs\WebAPI\WebAPI.Data\bin\Debug\WebAPI.Data.pdb
 D:\newPOCs\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.dll
 D:\newPOCs\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.pdb
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\bin\Debug\WebAPI.Data.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\bin\Debug\WebAPI.Data.pdb
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.csprojResolveAssemblyReference.cache
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.csproj.CoreCompileInputs.cache
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.pdb
