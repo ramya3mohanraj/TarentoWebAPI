@@ -13,3 +13,15 @@ D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Serv
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.csproj.CoreCompileInputs.cache
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.dll
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.pdb
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Service.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Service.pdb
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Data.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Data.pdb
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.xml
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.csprojResolveAssemblyReference.cache
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.pdb
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Service.dll.config
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.SqlServer.xml

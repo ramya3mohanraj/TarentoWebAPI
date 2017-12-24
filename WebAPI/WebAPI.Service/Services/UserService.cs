@@ -10,19 +10,31 @@ namespace WebAPI.Service.Services
 {
     public class UserService : IUserService
     {
+        private ApplicationDbContext db = new ApplicationDbContext();
+
+        public UserService()
+        {
+        }
+
         public bool RegisterUser(User user)
         {
-            throw new NotImplementedException();
+            using (ApplicationDbContext dbContext = new ApplicationDbContext())
+            {
+                dbContext.User.Add(user);
+                db.SaveChanges();
+                return true;
+            }
         }
 
         public List<User> getAllUsers()
         {
-            throw new NotImplementedException();
+            List<User> users = db.User.ToList();
+            return users;
         }
 
         public User Login(string userName, string password)
         {
-            throw new NotImplementedException();
+            return db.User.Where(u => u.UserName == userName && u.Password == password).FirstOrDefault();
         }
     }
 }

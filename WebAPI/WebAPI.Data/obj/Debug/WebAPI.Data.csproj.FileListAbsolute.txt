@@ -8,3 +8,15 @@ D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.cs
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.csproj.CoreCompileInputs.cache
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.dll
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.pdb
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\bin\Debug\WebAPI.Data.dll.config
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\bin\Debug\WebAPI.Data.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\bin\Debug\WebAPI.Data.pdb
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\bin\Debug\EntityFramework.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\bin\Debug\EntityFramework.xml
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.csprojResolveAssemblyReference.cache
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.pdb
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.Migrations.CreatWebAPIDb.resources
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Data\obj\Debug\WebAPI.Data.csproj.GenerateResource.Cache

@@ -24,3 +24,17 @@ D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Common\obj\Debug\WebAPI.Commo
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Common\obj\Debug\WebAPI.Common.csproj.CoreCompileInputs.cache
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Common\obj\Debug\WebAPI.Common.dll
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Common\obj\Debug\WebAPI.Common.pdb
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\WebAPI.Common.dll.config
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\WebAPI.Common.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\WebAPI.Common.pdb
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\log4net.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\Newtonsoft.Json.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\System.Web.Http.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\System.Net.Http.Formatting.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\log4net.xml
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\Newtonsoft.Json.xml
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\System.Web.Http.xml
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\bin\Debug\System.Net.Http.Formatting.xml
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\obj\Debug\WebAPI.Common.csprojResolveAssemblyReference.cache
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\obj\Debug\WebAPI.Common.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Common\obj\Debug\WebAPI.Common.pdb
