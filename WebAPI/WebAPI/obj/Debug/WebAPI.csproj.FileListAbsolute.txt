@@ -191,3 +191,16 @@ D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Service.dll
 D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Data.dll
 D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Service.pdb
 D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Data.pdb
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Service.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Data.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Service.pdb
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Service.dll.config
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Data.pdb
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\WebAPI.Data.dll.config
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.WebApi.resources
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.GenerateResource.Cache
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\Swashbuckle.Core.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\WebActivatorEx.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.xml

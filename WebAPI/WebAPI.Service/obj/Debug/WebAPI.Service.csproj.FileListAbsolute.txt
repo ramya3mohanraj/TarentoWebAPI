@@ -25,3 +25,9 @@ D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\obj\Debug\WebAPI.Service.pdb
 D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Service.dll.config
 D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.SqlServer.dll
 D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Service.dll.config
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\WebAPI.Data.dll.config
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.xml
+D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI.Service\bin\Debug\EntityFramework.SqlServer.xml
