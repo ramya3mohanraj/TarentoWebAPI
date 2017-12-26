@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,8 +11,8 @@ namespace WebAPI.Service.Contract
 {
     public interface IUserService
     {
-        bool RegisterUser(User user);
-        List<User> getAllUsers();
-        User Login(string userName, string password);
+        Task<IdentityResult> RegisterUser(User user);
+        List<IdentityUser> getAllUsers();
+        Task<IdentityUser> Login(string userName, string password);
     }
 }

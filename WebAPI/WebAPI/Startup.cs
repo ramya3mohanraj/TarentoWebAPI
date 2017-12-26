@@ -17,8 +17,8 @@ namespace WebAPI
 
             ConfigureAuth(app);
             WebApiConfig.Register(config);
-            app.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);
-            app.UseWebApi(config);
+            //app.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);
+            //app.UseWebApi(config);
         }
     }
 }

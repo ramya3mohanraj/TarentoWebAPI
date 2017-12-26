@@ -204,3 +204,10 @@ D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\WebActivatorEx.dll
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.dll
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\System.Web.Cors.dll
 D:\random\webAPI_Login\TarentoWebAPI\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.xml
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\bin\Swashbuckle.Core.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\bin\WebActivatorEx.dll
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.xml
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.CreateAPIDB.resources
+D:\newPOCs\TarentoWebAPI\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.GenerateResource.Cache

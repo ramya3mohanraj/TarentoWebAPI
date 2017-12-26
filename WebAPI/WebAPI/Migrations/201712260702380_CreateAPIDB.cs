@@ -1,14 +1,14 @@
-namespace WebAPI.Data.Migrations
+namespace WebAPI.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class CreatWebAPIDb : DbMigration
+    public partial class CreateAPIDB : DbMigration
     {
         public override void Up()
         {
             CreateTable(
-                "dbo.User",
+                "dbo.Users",
                 c => new
                     {
                         ID = c.Int(nullable: false, identity: true),
@@ -24,7 +24,7 @@ namespace WebAPI.Data.Migrations
         
         public override void Down()
         {
-            DropTable("dbo.User");
+            DropTable("dbo.Users");
         }
     }
 }

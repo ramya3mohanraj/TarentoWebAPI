@@ -3,6 +3,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
+using System.Data.Entity;
+using WebAPI.Data;
 
 namespace WebAPI.Models
 {
@@ -21,10 +23,11 @@ namespace WebAPI.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("DataConnectionStr", throwIfV1Schema: false)
         {
         }
-        
+        public DbSet<User> User { get; set; }
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();

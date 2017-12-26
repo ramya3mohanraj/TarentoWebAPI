@@ -218,9 +218,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201712260228377_WebApi.cs" />
-    <Compile Include="Migrations\201712260228377_WebApi.Designer.cs">
-      <DependentUpon>201712260228377_WebApi.cs</DependentUpon>
+    <Compile Include="Migrations\201712260702380_CreateAPIDB.cs" />
+    <Compile Include="Migrations\201712260702380_CreateAPIDB.Designer.cs">
+      <DependentUpon>201712260702380_CreateAPIDB.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
@@ -230,6 +230,7 @@
     <Compile Include="Providers\ApplicationOAuthProvider.cs" />
     <Compile Include="Results\ChallengeResult.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="Token.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
@@ -310,8 +311,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201712260228377_WebApi.resx">
-      <DependentUpon>201712260228377_WebApi.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201712260702380_CreateAPIDB.resx">
+      <DependentUpon>201712260702380_CreateAPIDB.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
