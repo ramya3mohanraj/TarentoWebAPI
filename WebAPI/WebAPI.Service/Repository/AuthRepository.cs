@@ -13,36 +13,33 @@ namespace WebAPI.Service.Repository
     {
         private ApplicationDbContext _ctx;
 
-        private UserManager<IdentityUser> _userManager;
+        private UserManager<User> _userManager;
 
         public AuthRepository()
         {
             _ctx = new ApplicationDbContext();
-            _userManager = new UserManager<IdentityUser>(new UserStore<IdentityUser>(_ctx));
+            _userManager = new UserManager<User>(new UserStore<User>(_ctx));
         }
 
         public async Task<IdentityResult> RegisterUser(User userModel)
         {
-            IdentityUser user = new IdentityUser
-            {
-                UserName = userModel.UserName
-            };
+            
 
-            var result = await _userManager.CreateAsync(user, userModel.Password);
+            var result = await _userManager.CreateAsync(userModel,userModel.PasswordHash);
 
             return result;
         }
 
-        public async Task<IdentityUser> FindUser(string userName, string password)
+        public async Task<User> FindUser(string userName, string password)
         {
-            IdentityUser user = await _userManager.FindAsync(userName, password);
+            User user = await _userManager.FindAsync(userName, password);
 
             return user;
         }
 
-        public List<IdentityUser> GetAllUsers()
+        public List<User> GetAllUsers()
         {
-            List<IdentityUser> user = _userManager.Users.ToList();
+            List<User> user = _userManager.Users.ToList();
 
             return user;
         }

@@ -25,6 +25,7 @@ namespace WebAPI.Models
         public ApplicationDbContext()
             : base("DataConnectionStr", throwIfV1Schema: false)
         {
+            Database.SetInitializer(new CreateDatabaseIfNotExists<ApplicationDbContext>());
         }
         public DbSet<User> User { get; set; }
 

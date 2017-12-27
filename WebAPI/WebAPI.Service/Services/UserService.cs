@@ -24,7 +24,7 @@ namespace WebAPI.Service.Services
         {
             //using (ApplicationDbContext dbContext = new ApplicationDbContext())
             //{
-            //    dbContext.User.Add(user);
+            //    dbContext.Users.Add(user);
             //    db.SaveChanges();
             //    return true;
             //}
@@ -34,17 +34,17 @@ namespace WebAPI.Service.Services
             return result;
         }
 
-        public List<IdentityUser> getAllUsers()
+        public List<User> getAllUsers()
         {
-            //List<User> users = db.User.ToList();
-            List<IdentityUser> result = repo.GetAllUsers();
+            //List<Users> users = db.Users.ToList();
+            List<User> result = repo.GetAllUsers();
             return result;
         }
 
-        public async Task<IdentityUser> Login(string userName, string password)
+        public async Task<User> Login(string userName, string password)
         {
-            //return db.User.Where(u => u.UserName == userName && u.Password == password).FirstOrDefault();
-            IdentityUser result = await repo.FindUser(userName, password);
+            //return db.Users.Where(u => u.UserName == userName && u.Password == password).FirstOrDefault();
+            User result = await repo.FindUser(userName, password);
             return result;
         }
     }

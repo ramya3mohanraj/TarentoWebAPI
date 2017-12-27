@@ -20,7 +20,7 @@ namespace WebAPI.Controllers
         [HttpGet]
         public IHttpActionResult GetAllUsers()
         {
-            List<IdentityUser> response = _userService.getAllUsers();
+            List<User> response = _userService.getAllUsers();
             return Ok();
         }
 
@@ -47,7 +47,7 @@ namespace WebAPI.Controllers
         [HttpGet]
         public async Task<IHttpActionResult> Login(string userName, string password)
         {
-            IdentityUser response = await _userService.Login(userName, password);
+            User response = await _userService.Login(userName, password);
             return Ok();
         }
 

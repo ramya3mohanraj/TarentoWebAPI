@@ -10,6 +10,8 @@ using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
 using WebAPI.Models;
+using WebAPI.Data;
+using WebAPI.Service.Services;
 
 namespace WebAPI.Providers
 {
@@ -23,7 +25,6 @@ namespace WebAPI.Providers
             {
                 throw new ArgumentNullException("publicClientId");
             }
-
             _publicClientId = publicClientId;
         }
 
@@ -49,6 +50,7 @@ namespace WebAPI.Providers
             context.Validated(ticket);
             context.Request.Context.Authentication.SignIn(cookiesIdentity);
         }
+
 
         public override Task TokenEndpoint(OAuthTokenEndpointContext context)
         {

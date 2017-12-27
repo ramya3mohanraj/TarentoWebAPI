@@ -12,7 +12,7 @@ namespace WebAPI.Service.Contract
     public interface IUserService
     {
         Task<IdentityResult> RegisterUser(User user);
-        List<IdentityUser> getAllUsers();
-        Task<IdentityUser> Login(string userName, string password);
+        List<User> getAllUsers();
+        Task<User> Login(string userName, string password);
     }
 }
