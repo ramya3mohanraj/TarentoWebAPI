@@ -218,11 +218,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201712270730553_CreateAPIDB.cs" />
-    <Compile Include="Migrations\201712270730553_CreateAPIDB.Designer.cs">
-      <DependentUpon>201712270730553_CreateAPIDB.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -301,6 +296,10 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\WebAPI.Common\WebAPI.Common.csproj">
+      <Project>{c6ab592c-c98a-4318-864d-696b9ff1084b}</Project>
+      <Name>WebAPI.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WebAPI.Data\WebAPI.Data.csproj">
       <Project>{8376633D-9E10-491C-A864-BC9BA9FA3C08}</Project>
       <Name>WebAPI.Data</Name>
@@ -309,11 +308,6 @@
       <Project>{3d9fd1a2-3b15-4476-a293-cfb1bd592650}</Project>
       <Name>WebAPI.Service</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201712270730553_CreateAPIDB.resx">
-      <DependentUpon>201712270730553_CreateAPIDB.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

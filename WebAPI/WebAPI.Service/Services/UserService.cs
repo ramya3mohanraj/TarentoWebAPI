@@ -15,6 +15,7 @@ namespace WebAPI.Service.Services
     {
         private ApplicationDbContext db = new ApplicationDbContext();
         private AuthRepository repo = new AuthRepository();
+        
 
         public UserService()
         {
@@ -41,11 +42,12 @@ namespace WebAPI.Service.Services
             return result;
         }
 
-        public async Task<User> Login(string userName, string password)
-        {
-            //return db.Users.Where(u => u.UserName == userName && u.Password == password).FirstOrDefault();
-            User result = await repo.FindUser(userName, password);
-            return result;
-        }
+        //public async Task<User> Login(string userName, string password)
+        //{
+        //    _logger.logInfo("Starting Login service..");
+        //    //return db.Users.Where(u => u.UserName == userName && u.Password == password).FirstOrDefault();
+        //    User result = await repo.FindUser(userName, password);
+        //    return result;
+        //}
     }
 }

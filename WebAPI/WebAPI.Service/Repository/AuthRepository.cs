@@ -23,7 +23,6 @@ namespace WebAPI.Service.Repository
 
         public async Task<IdentityResult> RegisterUser(User userModel)
         {
-            
 
             var result = await _userManager.CreateAsync(userModel,userModel.PasswordHash);
 

@@ -13,6 +13,6 @@ namespace WebAPI.Service.Contract
     {
         Task<IdentityResult> RegisterUser(User user);
         List<User> getAllUsers();
-        Task<User> Login(string userName, string password);
+        //Task<User> Login(string userName, string password);
     }
 }
